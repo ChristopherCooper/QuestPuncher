@@ -1,4 +1,4 @@
-## Interface: 90100
+## Interface: 90001
 ## Title: Quest Quitter
 ## Version: 1.0
 ## Author: DharKhan
