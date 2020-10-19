@@ -1,6 +1,0 @@
-## Interface: 90001
-## Title: Quest Quitter
-## Version: 1.0
-## Author: DharKhan
-## Notes: Quickly allows removing all quests from log / zone.
-QuestQuitter.lua
